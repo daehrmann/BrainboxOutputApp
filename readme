@@ -1,0 +1,5 @@
+This is the source code for an app I wrote to interface with 12 Brainbox ED-527 devices over a local wireless network.
+
+It was used to set of fireworks for a firework show!
+
+The code and app structure is likely messy. I went into this project with no Android experience and figured it out from there. I thought I would put it on github anyway in case it could help others in figuring out interfacing with their ED-527 devices.
